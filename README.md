@@ -1,2 +1,2 @@
 # test.xxxx
-This is a test for chaser.
+This is a test for vae.
